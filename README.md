@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fahad77-create
-- 👀 I’m interested in the MERN stack web applications
+- 👀 I’m interested in the Cloud projects
 - 🌱 I’m currently a student 
 - 📫 fahadkhalique070103@gmail.com
 
